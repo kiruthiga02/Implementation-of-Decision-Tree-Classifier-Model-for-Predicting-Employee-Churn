@@ -61,7 +61,29 @@ INFO:
 ![image](https://user-images.githubusercontent.com/98682825/174346208-7129873b-099a-4597-aace-848c112c08bb.png)
 
 
+ISNULL:
 
+![image](https://user-images.githubusercontent.com/98682825/174346572-b12ba626-c7d1-427d-851b-e9f78930ad16.png)
+
+
+LEFT:
+
+![image](https://user-images.githubusercontent.com/98682825/174346675-683558a4-03f7-460f-b3d4-ee85c85c4f71.png)
+
+
+HEAD USING LABELENCODER:
+
+![image](https://user-images.githubusercontent.com/98682825/174346780-c3863336-3130-455f-a484-63c1193ae360.png)
+
+
+ACCURACY:
+
+![image](https://user-images.githubusercontent.com/98682825/174346891-b914ceba-96d3-4fde-96a1-695d57e7615a.png)
+
+
+PREDICT:
+
+![image](https://user-images.githubusercontent.com/98682825/174347024-0cb2adc1-cdaf-4d07-b76c-8d6d1e529fd4.png)
 
 
 ## Result:
